@@ -1,1 +1,2 @@
 This is a normal text file
+This file updating from Remote repository
